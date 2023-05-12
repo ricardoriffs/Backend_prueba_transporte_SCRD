@@ -1,0 +1,5 @@
+
+-- Creación de la base de datos en postgres
+--Ejecutar el siguiente script sql o crear la base de datos con ayuda del gestor de base de datos pgadmin
+
+CREATE DATABASE "prueba-transporte";
